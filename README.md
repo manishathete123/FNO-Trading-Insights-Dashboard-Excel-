@@ -33,5 +33,38 @@ FNO_Trading_Dashboard.xlsx – Excel dashboard file
 dashboard_screenshot.png – Dashboard preview image
 README.md – Project documentation
 **About This Project**
+# F&O Trading Project Analysis
+
+## Problem Statement
+Analyze Futures & Options (F&O) trading performance to identify profit and loss patterns.
+
+## Dataset & Tools
+* **Data Source:** ~150 trading records including entry date, symbol, quantity, entry/exit price, P&L, order ID, etc.
+* **Tools Used:** MySQL, Microsoft Excel, Power BI
+
+## Methodology & Data Cleaning
+1. **Data Collection:** Exported raw records from CSV/Excel/Trading Journal.
+2. **Data Cleaning (MySQL & Excel):** Fixed data formats, removed nulls and duplicates, and corrected data types.
+3. **Exploratory Data Analysis (MySQL):** Queried total trades, win rate, loss rate, monthly P&L, weekday performance, and average profit/loss.
+
+## Key Findings & Insights
+* Monday and Tuesday experienced higher losses.
+* Profitable trades stemmed from disciplined exits.
+* Loss-making trades incurred a higher average loss overall.
+
+## Recommendations
+* Follow a strict, fixed stop-loss.
+* Avoid overtrading.
+* Focus on taking one quality trade per day.
+* Improve the overall risk-reward ratio.
+
+## Dashboard Overview
+Built an interactive Power BI dashboard featuring:
+* Core KPIs
+* Weekday performance analysis
+* Monthly P&L breakdown
+* Win vs. Loss charts
+* Profit trend visualization
 
 I created this project as part of my Data Analytics portfolio to strengthen my practical skills in Excel-based business analysis and dashboard reporting.
+ 
