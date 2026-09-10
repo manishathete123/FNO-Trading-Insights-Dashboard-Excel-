@@ -63,8 +63,19 @@ Built an interactive Power BI dashboard featuring:
 * Core KPIs
 * Weekday performance analysis
 * Monthly P&L breakdown
-* Win vs. Loss charts
+*  Win vs. Loss charts
 * Profit trend visualization
+
+## Key Business Insights 
+
+•	Identified profitable and loss-making trading days using weekday analysis.
+•	Measured overall trading win rate and average trade profitability.
+•	Calculated cumulative portfolio growth using SQL window functions.
+•	Detected longest winning and losing streaks using CTEs.
+•	Measured portfolio risk through Maximum Drawdown analysis.
+•	Created reusable SQL Views and Stored Procedures for reporting.
+•	Built an interactive Power BI dashboard for business-level performance monitoring.
+
 
 I created this project as part of my Data Analytics portfolio to strengthen my practical skills in Excel-based business analysis and dashboard reporting.
  
