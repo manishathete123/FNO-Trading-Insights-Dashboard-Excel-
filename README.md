@@ -69,11 +69,17 @@ Built an interactive Power BI dashboard featuring:
 ## Key Business Insights 
 
 •	Identified profitable and loss-making trading days using weekday analysis.
+
 •	Measured overall trading win rate and average trade profitability.
+
 •	Calculated cumulative portfolio growth using SQL window functions.
+
 •	Detected longest winning and losing streaks using CTEs.
+
 •	Measured portfolio risk through Maximum Drawdown analysis.
+
 •	Created reusable SQL Views and Stored Procedures for reporting.
+
 •	Built an interactive Power BI dashboard for business-level performance monitoring.
 
 
